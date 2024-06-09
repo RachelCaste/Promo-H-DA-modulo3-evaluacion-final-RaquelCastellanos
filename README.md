@@ -11,7 +11,8 @@ Para poder ejecutarlo, descarga todos los archivos en una carpeta (excepto el pd
 
 ## ENTENDIENDO LOS DATOS
 Por si te resulta más sencillo, te dejo el diccionario de las diferentes columnas:
-Customer Lifetime Value (CLV): El valor estimado total que una persona clienta generará para la empresa durante toda su relación con la misma. Este valor puede verse influenciado por factores como la frecuencia de los vuelos reservados, la distancia recorrida y los puntos acumulados.
+
+· Customer Lifetime Value (CLV): El valor estimado total que una clienta o cliente generará para la empresa durante toda su relación con la misma.
 
 · Loyalty Number: ID único de cada persona clienta, utilizado para identificar y rastrear las actividades de cada una de forma individual.
 
